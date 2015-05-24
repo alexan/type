@@ -45,7 +45,7 @@
         canvas.height = $(window).height();
 
         var ctx = canvas.getContext("2d");
-        ctx.webkitImageSmoothingEnabled = true;
+        ctx.imageSmoothingEnabled = true;
 
         var backgroundColor = getRandomColor();
         ctx.fillStyle=backgroundColor;
