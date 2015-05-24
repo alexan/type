@@ -79,8 +79,6 @@
             var charCode = (typeof e.which == "number") ? e.which : e.keyCode;
             if (charCode) {
                 draw(String.fromCharCode(charCode));
-                var typewriter = new Audio("typewriter.wav");
-                typewriter.play();
             }
         };
 
