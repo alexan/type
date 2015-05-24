@@ -18,7 +18,7 @@
             min         : 40,
             usePalette  : true,
             drawFrame   : false,
-            fonts       : ["monospace", "serif", "sans-serif", "Arial", "Arial Black", "Arial Narrow", "Arial Rounded MT Bold", "Bookman Old Style", "Bradley Hand ITC", "Century", "Century Gothic", "Comic Sans MS", "Courier", "Courier New", "Georgia", "Gentium", "Impact", "King", "Lucida Console", "Lalit", "Modena", "Monotype Corsiva"]
+            fonts       : ["monospace", "serif", "sans-serif", "Arial", "Arial Black", "Arial Narrow", "Arial Rounded MT Bold", "Bookman Old Style", "Bradley Hand ITC", "Century", "Century Gothic", "Courier", "Courier New", "Georgia", "Gentium", "Impact", "King", "Lucida Console", "Lalit", "Modena", "Monotype Corsiva"]
         };
         var queryParams = getQueryParams();
         var settings = {
